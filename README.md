@@ -1,77 +1,26 @@
-<div align="center">
-
-<h1>Tae Hoon Kim</h1>
-
-<h3>Software Engineer · Embedded Systems · Cyber Security</h3>
-
-<p>
-Building reliable software through<br>
-<b>problem analysis · automation · repeated validation</b>
+<p align="center">
+  <img src="./assets/profile_banner.svg" width="100%">
 </p>
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/kevin9480">
-  <img height="24"
-       src="https://img.shields.io/badge/GitHub-kevin9480-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-kevin9480-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:kevin9480@naver.com">
-  <img height="24"
-       src="https://img.shields.io/badge/Email-Contact-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="220" align="center" valign="middle">
-
-<h3>🎓 EDUCATION</h3>
-
-<b>Kookmin University</b>
-
-Electronic Systems Engineering
-
-</td>
-
-<td width="220" align="center" valign="middle">
-
-<h3>🎯 FOCUS</h3>
-
-<b>Software Reliability</b>
-
-Problem Analysis<br>
-Automation<br>
-Repeated Validation
-
-</td>
-
-<td width="220" align="center" valign="middle">
-
-<h3>💡 INTERESTS</h3>
-
-<code>Embedded SW</code>
-
-<br><br>
-
-<code>Cyber Security</code>
-
-<br><br>
-
-<code>System Verification</code>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="./assets/profile_summary.svg" width="100%">
+</p>
 
 <br>
 
