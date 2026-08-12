@@ -5,23 +5,7 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/kevin9480">
-  <img src="https://img.shields.io/badge/GitHub-kevin9480-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://app.notion.com/p/Tae-Hoon-Kim-Portfolio-3b99b5eb538f80668a7fc6541132f29d">
-  <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:kevin9480@naver.com">
-  <img src="https://img.shields.io/badge/Email-Contact-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-</a>
-
+<a href="https://github.com/kevin9480"><img src="https://img.shields.io/badge/GitHub-kevin9480-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://app.notion.com/p/Tae-Hoon-Kim-Portfolio-3b99b5eb538f80668a7fc6541132f29d"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp;&nbsp;<a href="mailto:kevin9480@naver.com"><img src="https://img.shields.io/badge/Email-Contact-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 </div>
 
 <br>
