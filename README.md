@@ -18,57 +18,95 @@
 
 ---
 
-## 📌 Work
+## 📌 Projects
 
 ### Security
 
-#### [Linux Vulnerability Automation](https://github.com/kevin9480/Linux_vuln_automation)
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/kevin9480/Linux_vuln_automation">Linux Vulnerability Automation</a></b>
 
 <sub>Linux Security Automation · Ansible · Shell</sub>
 
-<br>
+</td>
 
-#### [AWS DevSecOps Security Automation](https://github.com/kevin9480/Aws_devsecops_security_automation)
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/kevin9480/Aws_devsecops_security_automation">AWS DevSecOps Security Automation</a></b>
 
 <sub>Cloud Security · OIDC · IaC · CI/CD</sub>
 
-<br>
+</td>
 
-#### [Penetration Testing — NeoBank](https://github.com/kevin9480/Penetration_Testing)
+</tr>
+<tr>
 
-<sub>Web App Penetration Testing · Vulnerable FinTech App · 16 Vulnerability Types · Docker</sub>
+<td width="50%" valign="top">
 
-<br>
+<b><a href="https://github.com/kevin9480/Penetration_Testing">Penetration Testing — NeoBank</a></b>
 
-#### [Security Incident Report](https://github.com/kevin9480/Security_incident_report)
+<sub>Web App Pentesting · Vulnerable FinTech App · 16 Vulnerabilities · Docker</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/kevin9480/Security_incident_report">Security Incident Report</a></b>
 
 <sub>DFIR · Incident Response · React2Shell RCE Analysis · Wazuh/Sysmon/Coraza WAF</sub>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 ### Embedded / Control
 
-#### [UWB Logistics Robot](https://github.com/kevin9480/UWB_logistics_robot)
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/kevin9480/UWB_logistics_robot">UWB Logistics Robot</a></b>
 
 <sub>Embedded System · UWB Localization · Path Planning</sub>
 
-<br>
+</td>
 
-#### [NMPC Garrett Project](https://github.com/kevin9480/NMPC_garrett_project)
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/kevin9480/NMPC_garrett_project">NMPC Garrett Project</a></b>
 
 <sub>NMPC Control · Hybrid Vehicle Optimization · Simulation</sub>
 
-<br>
+</td>
 
-#### [Ball Tracking System](https://github.com/kevin9480/Ball_tracking_system)
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/kevin9480/Ball_tracking_system">Ball Tracking System</a></b>
 
 <sub>Embedded Vision · Raspberry Pi · OpenCV · PID Servo Control</sub>
 
-<br>
+</td>
 
-#### [Autonomous Driving Simulation — LKAS/AEB](https://github.com/kevin9480/Prescan_lkas)
+<td width="50%" valign="top">
 
-<sub>Prescan · MATLAB/Simulink · Lane Keeping · Emergency Braking</sub>
+<b><a href="https://github.com/kevin9480/Prescan_lkas">Driving Simulation — LKAS/AEB</a></b>
+
+<sub>Prescan · MATLAB/Simulink · LKAS · AEB</sub>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
