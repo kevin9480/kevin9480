@@ -13,9 +13,11 @@
 <path d="M183 65 l17 -9 l17 9 l-17 9z M188 73 v10 h24 V73" fill="none" stroke="#087E78" stroke-width="2.2"/>
 <text x="200" y="119" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#087E78">EDUCATION</text>
 <line x1="190" y1="136" x2="210" y2="136" stroke="#0CA89E" stroke-width="3"/>
-<text x="200" y="183" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#102638">Kookmin University</text>
-<text x="200" y="219" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#4D6673">Electronic Systems</text>
-<text x="200" y="246" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#4D6673">Engineering</text>
+<text x="200" y="163" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#102638">Kookmin University</text>
+<text x="200" y="184" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#4D6673">Electronic Systems Eng.</text>
+<line x1="170" y1="199" x2="230" y2="199" stroke="#DFE9EC" stroke-width="1"/>
+<text x="200" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#102638">Hyundai AutoEver Mobility SW School</text>
+<text x="200" y="243" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4D6673">IT Security</text>
 
 <circle cx="600" cy="66" r="28" fill="#E6F8F6"/>
 <circle cx="600" cy="66" r="14" fill="none" stroke="#087E78" stroke-width="2.2"/>
