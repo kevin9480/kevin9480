@@ -22,12 +22,6 @@
 
 ### Security
 
-#### [Security Incident Report](https://github.com/kevin9480/Security_incident_report)
-
-<sub>DFIR · Incident Response · React2Shell RCE Analysis · Wazuh/Sysmon/Coraza WAF</sub>
-
-<br>
-
 #### [Linux Vulnerability Automation](https://github.com/kevin9480/Linux_vuln_automation)
 
 <sub>Linux Security Automation · Ansible · Shell</sub>
@@ -37,6 +31,18 @@
 #### [AWS DevSecOps Security Automation](https://github.com/kevin9480/Aws_devsecops_security_automation)
 
 <sub>Cloud Security · OIDC · IaC · CI/CD</sub>
+
+<br>
+
+#### [Penetration Testing — NeoBank](https://github.com/kevin9480/Penetration_Testing)
+
+<sub>Web App Penetration Testing · Vulnerable FinTech App · 16 Vulnerability Types · Docker</sub>
+
+<br>
+
+#### [Security Incident Report](https://github.com/kevin9480/Security_incident_report)
+
+<sub>DFIR · Incident Response · React2Shell RCE Analysis · Wazuh/Sysmon/Coraza WAF</sub>
 
 <br>
 
@@ -51,6 +57,18 @@
 #### [NMPC Garrett Project](https://github.com/kevin9480/NMPC_garrett_project)
 
 <sub>NMPC Control · Hybrid Vehicle Optimization · Simulation</sub>
+
+<br>
+
+#### [Ball Tracking System](https://github.com/kevin9480/Ball_tracking_system)
+
+<sub>Embedded Vision · Raspberry Pi · OpenCV · PID Servo Control</sub>
+
+<br>
+
+#### [Autonomous Driving Simulation — LKAS/AEB](https://github.com/kevin9480/Prescan_lkas)
+
+<sub>Prescan · MATLAB/Simulink · Lane Keeping · Emergency Braking</sub>
 
 <br>
 
@@ -69,6 +87,8 @@
 ### Kookmin University — Electronic Systems Engineering
 
 **B.S. · Mar 2019 — Feb 2026**
+
+> Control Engineering · Algorithms · Embedded Systems · Operating Systems
 
 <br>
 
