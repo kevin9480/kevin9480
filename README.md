@@ -5,17 +5,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/kevin9480">
-    <img src="https://img.shields.io/badge/GitHub-kevin9480-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/kevin9480"><img src="https://img.shields.io/badge/GitHub-kevin9480-181717?style=flat-square&logo=github&logoColor=white"/></a>
   &nbsp;&nbsp;
-  <a href="https://polished-step-8ec.notion.site/Tae-Hoon-Kim-Portfolio-3b99b5eb538f80668a7fc6541132f29d">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  </a>
+  <a href="https://polished-step-8ec.notion.site/Tae-Hoon-Kim-Portfolio-3b99b5eb538f80668a7fc6541132f29d"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:kevin9480@naver.com">
-    <img src="https://img.shields.io/badge/Email-Contact-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
+  <a href="mailto:kevin9480@naver.com"><img src="https://img.shields.io/badge/Email-Contact-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 </div>
 
 <br>
@@ -32,125 +26,19 @@
 
 ### ⚙️ Embedded & Control
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/UWB_logistics_robot">
-          UWB Logistics Robot
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        Embedded · Localization<br>
-        UWB · Moving Average Filter · A*
-      </sub>
-    </td>
-
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/NMPC_garrett_project">
-          NMPC Energy Management
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        Control · Optimization<br>
-        NMPC · MATLAB/Simulink
-      </sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/Prescan_lkas">
-          Prescan ADAS
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        ADAS · Verification<br>
-        LKAS · AEB · MATLAB/Simulink
-      </sub>
-    </td>
-
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/Ball_tracking_system">
-          Ball Tracking System
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        Vision · Control<br>
-        Raspberry Pi · OpenCV · P Control
-      </sub>
-    </td>
-  </tr>
-</table>
+|  |  |
+| --- | --- |
+| **[UWB Logistics Robot](https://github.com/kevin9480/UWB_logistics_robot)**<br><br>Embedded · Localization<br>UWB · Moving Average Filter · A* | **[NMPC Energy Management](https://github.com/kevin9480/NMPC_garrett_project)**<br><br>Control · Optimization<br>NMPC · MATLAB/Simulink |
+| **[Prescan ADAS](https://github.com/kevin9480/Prescan_lkas)**<br><br>ADAS · Verification<br>LKAS · AEB · MATLAB/Simulink | **[Ball Tracking System](https://github.com/kevin9480/Ball_tracking_system)**<br><br>Vision · Control<br>Raspberry Pi · OpenCV · P Control |
 
 <br>
 
 ### 🛡️ Security & DevOps
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/Linux_vuln_automation">
-          Linux Vulnerability Automation
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        Security · Automation<br>
-        Linux · Ansible · Nuclei
-      </sub>
-    </td>
-
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/Aws_devsecops_security_automation">
-          AWS DevSecOps Security Automation
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        Cloud · DevSecOps<br>
-        AWS · OIDC · Terraform · GitHub Actions
-      </sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/Penetration_Testing">
-          Web Penetration Testing
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        Web Security · Burp Suite<br>
-        SQL Injection · XSS · CSRF
-      </sub>
-    </td>
-
-    <td width="50%" valign="top">
-      <b>
-        <a href="https://github.com/kevin9480/Security_incident_report">
-          Security Incident Analysis & Response
-        </a>
-      </b>
-      <br><br>
-      <sub>
-        DFIR · Incident Response<br>
-        Wazuh · Sysmon · Network Logs
-      </sub>
-    </td>
-  </tr>
-</table>
+|  |  |
+| --- | --- |
+| **[Linux Vulnerability Automation](https://github.com/kevin9480/Linux_vuln_automation)**<br><br>Security · Automation<br>Linux · Ansible · Nuclei | **[AWS DevSecOps Security Automation](https://github.com/kevin9480/Aws_devsecops_security_automation)**<br><br>Cloud · DevSecOps<br>AWS · OIDC · Terraform · GitHub Actions |
+| **[Web Penetration Testing](https://github.com/kevin9480/Penetration_Testing)**<br><br>Web Security · Burp Suite<br>SQL Injection · XSS · CSRF | **[Security Incident Analysis & Response](https://github.com/kevin9480/Security_incident_report)**<br><br>DFIR · Incident Response<br>Wazuh · Sysmon · Network Logs |
 
 <br>
 
@@ -178,29 +66,9 @@
 
 ## 🏆 Awards
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🏆 Excellent Paper Award</b>
-      <br><br>
-      한국전자파학회
-      <br><br>
-      UWB-based Autonomous Logistics Robot
-      <br><br>
-      <sub>Aug 2024</sub>
-    </td>
-
-    <td width="50%" valign="top">
-      <b>🏆 Excellence Award · 2nd Place</b>
-      <br><br>
-      Garrett Motion Korea
-      <br><br>
-      NMPC Controller Design Competition
-      <br><br>
-      <sub>Dec 2024</sub>
-    </td>
-  </tr>
-</table>
+|  |  |
+| --- | --- |
+| **🏆 Excellent Paper Award**<br><br>한국전자파학회<br><br>UWB-based Autonomous Logistics Robot<br><br>Aug 2024 | **🏆 Excellence Award · 2nd Place**<br><br>Garrett Motion Korea<br><br>NMPC Controller Design Competition<br><br>Dec 2024 |
 
 <br>
 
