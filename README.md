@@ -29,7 +29,7 @@
 |  |  |
 | --- | --- |
 | **[UWB Logistics Robot](https://github.com/kevin9480/UWB_logistics_robot)**<br><br>Embedded · Localization<br>UWB · Moving Average Filter · A* | **[NMPC Energy Management](https://github.com/kevin9480/NMPC_garrett_project)**<br><br>Control · Optimization<br>NMPC · MATLAB/Simulink |
-| **[Prescan ADAS](https://github.com/kevin9480/Prescan_lkas)**<br><br>ADAS · Verification<br>LKAS · AEB · MATLAB/Simulink | **[Ball Tracking System](https://github.com/kevin9480/Ball_tracking_system)**<br><br>Vision · Control<br>Raspberry Pi · OpenCV · P Control |
+| **[Prescan ADAS](https://github.com/kevin9480/Prescan_lkas)**<br><br>ADAS · Verification<br>LKAS · AEB · MATLAB/Simulink | **[Ball Tracking System](https://github.com/kevin9480/Ball_tracking_system)**<br><br>Vision · Control<br>Raspberry Pi · OpenCV · PID Control |
 
 <br>
 
